@@ -1,0 +1,2 @@
+import VariationalProblemsAbstractBifurcationTheoryCanonicalLaneLean.GateLemmas
+import VariationalProblemsAbstractBifurcationTheoryCanonicalLaneLean.FinalTheorem
